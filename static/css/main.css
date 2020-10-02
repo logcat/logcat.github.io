@@ -1,0 +1,54 @@
+.container {
+  width: auto;
+  max-width: 800px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container .bullet {
+  margin-top: 10px;
+  font-size: 1.5rem;
+}
+
+.container .contact {
+  margin-top: 40px;
+  font-size: 1.5rem;
+}
+
+
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.container a {
+  color: #27A822;
+}
+
+.container a:hover {
+  color: #267723;
+}
+
+.rounded-circle {
+  display: block;
+  height: auto;
+  max-width: 33%;    
+  min-width: 20%;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.social {
+  padding-top: 12px;
+  word-spacing: 25px;
+}
+
+.social h4 > a {
+  color: #000000;
+}
+
+.avatar {
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
